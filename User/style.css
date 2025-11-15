@@ -1,0 +1,21 @@
+/* Light default */
+html,body{background:#fff;color:#222}
+
+/* Navbar */
+.navbar .nav-link{color:#333}
+.navbar .nav-link:hover{color:#000}
+
+/* Hero + sections */
+.hero{background:#fafafa}
+.border-top,.border-bottom{border-color:#eaeaea!important}
+
+/* Cards */
+.card{border-color:#eaeaea}
+.card img{object-fit:cover;height:180px}
+
+/* Category tiles */
+.cat-card{background:#222;color:#fff;padding:40px 20px;text-align:center;border-radius:16px}
+
+/* Misc */
+a{color:#0d6efd}
+a:hover{color:#0a58ca}
